@@ -2,13 +2,13 @@
 
 
 # Hi there 👋, I'm Md Masudul Islam Asif
-  # I am a Student. passionate about Data Science Engineering
+  # I am a Student. passionate about Hardware & Software with Data Science Engineering
 
-Always available for beneficial works🙂 Hi,I'm Asif . Now, I'm studying Computer Science and Engineering in Bangladesh University of Business and Technology.
+Always available for beneficial works🙂 Hi,I'm Asif . Now, I Complete My Graduation in Computer Science and Engineering From Bangladesh University of Business and Technology.
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47eowolcrpdx2fhe1bqkh4md3rpupx7kmwz8sqaqn1&rid=giphy.gif&ct=g">
 
-Skills:  REACT / JS / HTML / CSS / Artificial Intelligence / Data Science
+Skills:  C-C++/ HTML / CSS / Python / Artificial Intelligence / Data Science/ Data Analysis
 
 - 🔭 I’m currently working on **BSc Engineering In CSE**
 - 🌱 I’m currently learning **Python, Machine Learning , Deep Learning** 
