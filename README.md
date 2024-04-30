@@ -2,7 +2,7 @@
 
 
 # Hi there 👋, I'm Md Masudul Islam Asif
-  # I am a Student. passionate about Hardware & Software with Data Science Engineering
+  # I complete my graduation in Computer Science and Engineering. passionate about Hardware & Software with Data Science Engineering
 
 Always available for beneficial works🙂 Hi,I'm Asif . Now, I Complete My Graduation in Computer Science and Engineering From Bangladesh University of Business and Technology.
 
